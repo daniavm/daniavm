@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Daniel Valdés Medel (@daniavm)
+# About me?
+- 👋 Hi, I’m Daniel Valdés Medel (@daniavm) an astronomer, physics teacher and proto-Data Scientist who wants to share some of his experiences and ideas to the people.
 - 👀 I’m interested in people who want to be able to work mainly in scientific dissemination, data science or design tasks to find a way to make it possible for the world community to have the necessary tools to approach a scientific environment and allow it to make better decisions or opportunities.
 - 🌱 I’m currently learning anything about Data Science Tools and Machine Learning.
 - 💞️ I’m looking to collaborate on companies that have to do with technology or education, since I think I have a lot to contribute in these areas in terms of data analysis and decision making.
